@@ -3,7 +3,7 @@
 Konut ve otel iç mekânlarında serbest duran mobilyaların deprem etkisinde
 devrilme ve kayma riski: hesaplamalı (statik + dinamik + mekânsal) analiz.
 
-Yazarlar : Ayşan Ilgın Polat, Hakan Bal, Ferhat Koyuncu
+Yazarlar : 
 Dergi    : Türk Deprem Araştırma Dergisi (TDAD) gönderimi için hazırlanmıştır.
 Lisans   : CC BY 4.0 (kod ve veri)
 
