@@ -1,6 +1,5 @@
 # Serbest Duran Mobilyaların Deprem Kaynaklı Devrilme Riski
 
-Polat, A. I., Bal, H., Koyuncu, F. — Türk Deprem Araştırma Dergisi (TDAD) gönderimi için analiz kodu ve verileri.
 
 ## Çalıştırma
 
